@@ -1,0 +1,1 @@
+sequelize model:create --name user --attributes username:string,uid:string,email:string,phone_number:string,city:string,birth:date,last_active:date,avatar_img_path:string
